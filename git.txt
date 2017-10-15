@@ -1,0 +1,4 @@
+git config --global user.name "Dileep Dora"
+git config --global user.email "dileepdora.65@gmail.com"
+ when u create a new repo go to that folder and right click and click on the git bash here
+ 
